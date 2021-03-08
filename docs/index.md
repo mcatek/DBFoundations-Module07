@@ -27,8 +27,11 @@ Check (dbo.fGetPrice(ProductID) > 10.00);
 #### Figure 2 - Add Check Restraint to Table
 
 Now to add some inventory counts: The products table in Figure 3 lists some products and prices.  Adding a count for Konbu, product id #13, should be prevented by the constraint.
-add image
+
+![Table Values](https://github.com/mcatek/DBFoundations-Module07/blob/main/docs/Capture%20table%20values.PNG) 
 #### Figure 3 - Table Values
+
+
 
 The insert statement fails as shown in Figure 4.
 ```
