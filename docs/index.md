@@ -41,8 +41,9 @@ Values
 ('2017-05-01', 5, 13, 10, 100);
 go
 ```
-add image
-#### Figure 4 - Failed Insert Statement 
+
+![Failed Insert](https://github.com/mcatek/DBFoundations-Module07/blob/main/docs/Capture%20error%20message.PNG)
+#### Figure 4 - Insert Statement and Error Message 
 
 ## Scalar, Inline and Multi-Statement Functions
 
